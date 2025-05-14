@@ -1,7 +1,7 @@
 const Analytics = require('analytics-node');
 
 // Replace with your actual Segment Write Key
-const writeKey = 'csgyi1lPYJoYMTe8kMPLvQZOuj2D0eJC';
+const writeKey = 'cva7iPpXf2glIRHWyI7UXcGUCX8ukhLl';
 
 const analytics = new Analytics(writeKey);
 
